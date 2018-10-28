@@ -13,3 +13,10 @@ html,body{
     padding: 0;
 }
 
+.nav-link .navbar-brand{
+    color: white !important;
+}
+
+.navbar-brand{
+    font-size: 3vw !important;
+}
