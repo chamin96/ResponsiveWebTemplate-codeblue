@@ -1,7 +1,7 @@
 html,body{
     height: 100vh;
     width: 100vw;
-    background-image: url(images/background1.jpg);
+    background-image: url(images/abstract-background.jpg);
     background-position: 0% 9%;
     background-size: cover;
     background-repeat: no-repeat;
@@ -14,9 +14,26 @@ html,body{
 }
 
 .nav-link .navbar-brand{
-    color: white !important;
+    color: black !important;
 }
 
 .navbar-brand{
-    font-size: 3vw !important;
+    font-size: 3vh !important;
 }
+
+.nav-link{
+    font-size: 3vh;
+}
+
+hr{
+    color: aliceblue;
+    size: 5px;
+}
+
+.content{
+    margin-top: 17vw;
+    margin-bottom: 35;
+}
+
+
+
